@@ -1,4 +1,4 @@
-Shery.imageEffect("#back", { style: 5, config: {
+Shery.imageEffect("#back", { style: 5,config: {
     "a": { "value": 0.74, "range": [0, 30] },
     "b": { "value": -0.92, "range": [-1, 1] },
     "zindex": { "value": -9996999, "range": [-9999999, 9999999] },
